@@ -1,0 +1,70 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/Lab1/Lab1_Cpp/.vs/Lab1_Cpp/v17
+/Lab1/Lab1_Cpp/Lab1_Cpp/x64/Release/Lab1_Cpp.tlog
+/Lab1/Lab1_Cpp/Lab1_Cpp/x64/Release/Lab1_Cpp_dinamic.tlog
+/Lab1/Lab1_Cpp/Lab1_Cpp/x64/Release
+/Lab1/Lab1_Cpp/.vs/Lab1_Cpp/FileContentIndex
+/Lab1/Lab1_Cpp/Lab1_Cpp/Lab1_Cpp.vcxproj.filters
+/Lab1/Lab1_Cpp/Lab1_Cpp/Lab1_Cpp.vcxproj
+/Lab1/Lab1_Cpp/Lab1_Cpp/Lab1_Cpp.vcxproj.user
+/Lab1/Lab1_Cpp/Lab1_Cpp_static/x64
+/Lab1/Lab1_Cpp/Lab1_Cpp_static/Lab1_Cpp_static.vcxproj
+/Lab1/Lab1_Cpp/Lab1_Cpp_static/Lab1_Cpp_static.vcxproj.filters
+/Lab1/Lab1_Cpp/Lab1_Cpp_static/Lab1_Cpp_static.vcxproj.user
+/Lab1/Lab1_Cpp/x64/Debug
+/Lab1/Lab1_Cpp/x64/Release/Lab1_Cpp.pdb
+/Lab1/Lab1_Cpp/x64/Release/Lab1_Cpp_dinamic.pdb
+/Lab1/Lab1_Cpp/x64/Release/Lab1_Cpp_static.pdb
+/Lab2/Lab2_Cpp/.vs/Lab2_Cpp
+/Lab2/Lab2_Cpp/Lab2_Cpp/x64
+/Lab3/Lab3_Cpp/Lab3_Cpp/x64/Debug
+*.pdb
+*.user
+*.filters
+/Lab3/Lab3_Cpp/.vs/Lab3_Cpp
+/Lab1/Lab1_Cpp/Lab1_Cpp/input6.txt
+/Lab1/Lab1_Cpp/Lab1_Cpp/output.txt
+/Lab1/Lab1_Cpp/Lab1_Cpp_static/input6.txt
+/Lab1/Lab1_Cpp/Lab1_Cpp_static/output.txt
+/Lab1/Lab1_Cpp/x64/Release/input6.txt
+/Lab1/Lab1_Java/input4.txt
+/Lab1/Lab1_Java/output.txt
+/Lab2/Lab2_Cpp/Lab2_Cpp/input4.txt
+/Lab2/Lab2_Cpp/Lab2_Cpp/output.txt
+/Lab2/Lab2_Cpp/x64/Release/input3.txt
+/Lab2/Lab2_Cpp/x64/Release/input4.txt
+/Lab2/Lab2_Java/input4.txt
+/Lab3/Lab3_Cpp/x64/Debug/check3.txt
+/Lab3/Lab3_Cpp/x64/Debug/input3.txt
+/Lab3/Lab3_Cpp/x64/Debug/output.txt
